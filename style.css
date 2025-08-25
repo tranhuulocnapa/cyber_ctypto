@@ -1,0 +1,23 @@
+/* @media only screen and (max-width: 870px) {
+.box h1 {
+font-size: 1rem;
+}
+} */
+body {
+    background-color: #151937;
+    color: #fff;
+}
+
+
+.text-grandient {
+    background-image: linear-gradient(to right, red, blue);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.btn-trading {
+background-image: linear-gradient(to right, red, blue);
+padding: 1rem 3rem;
+border-radius: 30px;
+}
